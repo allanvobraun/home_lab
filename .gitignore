@@ -1,0 +1,37 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python version management
+.python-version
+
+# Environment variables and secrets
+.env
+.env.local
+*.key
+*.pem
+secrets/
+
+# pyinfra
+.pyinfra_cache/
+
+# OS
+.DS_Store
+Thumbs.db
